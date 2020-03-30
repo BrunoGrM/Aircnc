@@ -1,11 +1,9 @@
 <h1 align="center">
     <img alt="Aircnc" src=".github/logo.png" width="250px" />
 </h1>
-
 <h4 align="center">
-  ☕ Code and Coffee
+  Code and Coffee ☕
 </h4>
-
 <p align="center">
   <img alt="Frontend" src=".github/aircnc.png" width="100%">
 </p>
